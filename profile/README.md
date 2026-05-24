@@ -8,7 +8,7 @@
 
 _Construimos sistemas IA reales, no humo._
 
-[neonexai.com](https://neonexai.com) · [LinkedIn](https://www.linkedin.com/company/neonexai/) · [Founder](https://github.com/JonatanGhub)
+[neonexai.com](https://neonexai.com) · [LinkedIn](https://www.linkedin.com/company/neonexai-agency/) · [Founder](https://github.com/JonatanGhub)
 
 </div>
 
