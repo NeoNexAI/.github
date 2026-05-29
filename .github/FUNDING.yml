@@ -1,0 +1,11 @@
+# Configuración de patrocinio para la organización NeoNexAI
+# Sponsorship configuration for the NeoNexAI organization
+# Docs: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# GitHub Sponsors (descomenta y añade el usuario/organización cuando esté activo)
+# github: [neonexai]
+
+# Enlaces personalizados (hasta 4)
+custom:
+  - "https://neonexai.com"
+  - "https://wa.me/34620033053"
