@@ -1,0 +1,54 @@
+name: 💡 Propuesta de mejora · Feature request
+description: Sugiere una idea o nueva funcionalidad · Suggest an idea or new feature
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por tu idea! 💡 _Thanks for your idea!_
+
+        Busca en los [issues existentes](../issues) por si ya se ha propuesto algo similar.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: ¿Qué problema resuelve? · What problem does it solve?
+      description: Describe la necesidad o el dolor que motiva esta propuesta.
+      placeholder: Me resulta difícil... / Sería útil poder...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solución propuesta · Proposed solution
+      description: ¿Qué te gustaría que ocurriera?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas · Alternatives considered
+      description: Otras soluciones o workarounds que hayas valorado.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional · Additional context
+      description: Capturas, enlaces, ejemplos de otros proyectos, etc.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmaciones · Confirmations
+      options:
+        - label: He buscado en los issues existentes y no hay un duplicado.
+          required: true
+        - label: Esta propuesta está alineada con la filosofía de NeoNexAI (simplicidad, sin lock-in).
+          required: false

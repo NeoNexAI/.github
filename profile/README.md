@@ -8,7 +8,12 @@
 
 _Construimos sistemas IA reales, no humo._
 
-[neonexai.com](https://neonexai.com) · [LinkedIn](https://www.linkedin.com/company/neonexai-agency/) · [Founder](https://github.com/JonatanGhub)
+[![Web](https://img.shields.io/badge/web-neonexai.com-0A0A0A?style=flat-square&logo=astro&logoColor=white)](https://neonexai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NeoNexAI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/neonexai/)
+[![Email](https://img.shields.io/badge/email-info@neonexai.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@neonexai.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+34_620_033_053-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/34620033053)
+
+[neonexai.com](https://neonexai.com) · [LinkedIn](https://www.linkedin.com/company/neonexai/) · [Founder](https://github.com/JonatanGhub)
 
 </div>
 

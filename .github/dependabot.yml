@@ -1,0 +1,38 @@
+# Dependabot — actualizaciones automáticas de dependencias
+# Automatic dependency updates
+# Docs: https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+#
+# NOTA: este archivo en el repo .github NO se hereda automáticamente por otros
+# repos. Cópialo en cada repositorio que tenga dependencias. Se incluye aquí
+# como plantilla de referencia de la organización.
+
+version: 2
+updates:
+  # GitHub Actions usadas en los workflows
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "chore(deps)"
+
+  # Ejemplo Node/npm — descomenta en repos JS/TS (Astro, Next, etc.)
+  # - package-ecosystem: "npm"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "weekly"
+  #   open-pull-requests-limit: 10
+  #   labels: ["dependencies"]
+  #   commit-message:
+  #     prefix: "chore(deps)"
+
+  # Ejemplo Python/pip — descomenta en repos Python
+  # - package-ecosystem: "pip"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "weekly"
+  #   labels: ["dependencies"]

@@ -1,0 +1,72 @@
+name: 🐛 Reporte de bug · Bug report
+description: Informa de un problema o comportamiento inesperado · Report a problem or unexpected behavior
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de reportar un bug 🙏
+        _Thanks for taking the time to file a bug report._
+
+        Antes de continuar, busca en los [issues existentes](../issues) por si ya está reportado.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del bug · Bug description
+      description: Explica con claridad qué ocurre · Clearly describe what happens
+      placeholder: Al hacer X, ocurre Y en lugar de Z...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Pasos para reproducir · Steps to reproduce
+      description: Pasos exactos para reproducir el comportamiento
+      placeholder: |
+        1. Ir a '...'
+        2. Hacer clic en '...'
+        3. Ver el error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamiento esperado · Expected behavior
+      placeholder: Esperaba que...
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Entorno · Environment
+      description: Versión, SO, navegador, runtime... lo que aplique
+      placeholder: |
+        - Repo/versión: v1.2.3
+        - SO: Ubuntu 24.04 / Windows 11 / macOS 14
+        - Navegador/Runtime: Chrome 120 / Node 20
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / capturas · Logs / screenshots
+      description: Pega logs relevantes o adjunta capturas. Los logs se formatean automáticamente.
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmaciones · Confirmations
+      options:
+        - label: He buscado en los issues existentes y no hay un duplicado.
+          required: true
+        - label: No incluyo secretos, claves ni datos personales en este reporte.
+          required: true

@@ -1,0 +1,16 @@
+# Configuración del selector de plantillas de issues
+# Issue template chooser configuration
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Pregunta o ayuda de uso · Question / usage help
+    url: https://github.com/neonexai/.github/blob/main/SUPPORT.md
+    about: Para dudas de uso y soporte, mira primero nuestra guía de soporte.
+  - name: 🔒 Reportar una vulnerabilidad · Report a security issue
+    url: https://github.com/neonexai/.github/blob/main/SECURITY.md
+    about: NO abras un issue público de seguridad. Sigue nuestra política de seguridad.
+  - name: 💼 Consultas comerciales · Business inquiries
+    url: https://neonexai.com
+    about: Presupuestos, servicios web para PYMES y consultoría IA.
+  - name: 💬 WhatsApp
+    url: https://wa.me/34620033053
+    about: Respuesta rápida para clientes y consultas comerciales.
