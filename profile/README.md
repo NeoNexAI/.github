@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://neonexai.com/images/neonex-logo-3d.png" width="180" alt="NeoNexAI logo" />
+<img src="https://raw.githubusercontent.com/neonexai/.github/main/profile/assets/neonex-logo.png" width="180" alt="NeoNexAI logo" />
 
 # NeoNexAI Agency
 
@@ -11,7 +11,6 @@ _Construimos sistemas IA reales, no humo._
 [![Web](https://img.shields.io/badge/web-neonexai.com-0A0A0A?style=flat-square&logo=astro&logoColor=white)](https://neonexai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NeoNexAI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/neonexai/)
 [![Email](https://img.shields.io/badge/email-info@neonexai.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@neonexai.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+34_620_033_053-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/34620033053)
 
 [neonexai.com](https://neonexai.com) · [LinkedIn](https://www.linkedin.com/company/neonexai/) · [Founder](https://github.com/JonatanGhub)
 
@@ -28,7 +27,7 @@ _Construimos sistemas IA reales, no humo._
 | 📈 | **Trades** | Sistemas de trading cripto y mercados de predicción con guardrails inmutables (Kelly, drawdown 15%, ATR stop). |
 | 📦 | **Products** | SaaS nativos IA construidos con stack moderno (Astro, Next, Supabase, Postgres, Stripe). |
 | 🔓 | **OpenSource** | Skills, agents y tools liberados aquí. Lo que aprendemos lo devolvemos al ecosistema. |
-| 🛠️ | **Services** | Webs profesionales para PYMES españolas desde 400€ y consultoría IA para equipos que quieren ir en serio. |
+| 🛠️ | **Services** | Webs profesionales para PYMES españolas y consultoría IA para equipos que quieren ir en serio. |
 
 ---
 
@@ -36,8 +35,7 @@ _Construimos sistemas IA reales, no humo._
 
 <!-- Esta sección se autocompleta a medida que se publican repos -->
 
-- 🌐 [**neonexai-landing**](https://github.com/neonexai/neonexai-landing) — Sitio web corporativo (Astro + Bootstrap 5 local)
-- 🏪 _más repos llegando con cada pilar publicado_
+- 🏪 _Repos llegando con cada pilar publicado_
 
 ---
 
@@ -55,13 +53,11 @@ _Construimos sistemas IA reales, no humo._
 
 ### SMB Web Service — PYMES españolas
 
-| Tier | Precio | Para quién |
-|---|---|---|
-| **Express** | 400€ | Tu primera web profesional one-page en 7 días |
-| **Avanzado** | 790€ | Web multi-página con identidad y SEO local |
-| **Premium** | 1.990€ | Web a medida con reservas, pagos y chatbot IA |
+Webs profesionales a medida para pequeñas y medianas empresas: desde una
+one-page hasta sitios multi-página con identidad, SEO local, reservas, pagos
+y chatbot IA.
 
-[Más detalles →](https://neonexai.com/pilares/services)
+[Ver planes y precios en la web →](https://neonexai.com/pilares/services)
 
 ### Consultoría IA
 
@@ -85,7 +81,6 @@ Contacto: [info@neonexai.com](mailto:info@neonexai.com)
 | [info@neonexai.com](mailto:info@neonexai.com) | Consultas generales, presupuestos |
 | [jonatan@neonexai.com](mailto:jonatan@neonexai.com) | Founder, partnerships, prensa |
 | [legal@neonexai.com](mailto:legal@neonexai.com) | RGPD, compliance, opt-outs |
-| [WhatsApp +34 620 033 053](https://wa.me/34620033053) | Respuesta rápida |
 | [LinkedIn](https://www.linkedin.com/company/neonexai/) | Networking B2B |
 
 ---
