@@ -8,7 +8,6 @@
 
 <!-- ¿Qué hace este PR y por qué? · What does this PR do and why? -->
 
-
 ## 🔗 Issue relacionado · Related issue
 
 <!-- Ej: Closes #123 -->
