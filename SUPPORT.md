@@ -13,7 +13,7 @@ _Need help with a **NeoNexAI** project? You're in the right place._
 | 💡 **Idea / feature** | Abre un issue con la plantilla de _Feature request_ |
 | ❓ **Pregunta de uso** | Issue con etiqueta `question` o [info@neonexai.com](mailto:info@neonexai.com) |
 | 🔒 **Seguridad** | **No abras un issue** → ver [SECURITY.md](SECURITY.md) |
-| 💼 **Cliente / presupuesto** | [info@neonexai.com](mailto:info@neonexai.com) · [WhatsApp](https://wa.me/34620033053) |
+| 💼 **Cliente / presupuesto** | [info@neonexai.com](mailto:info@neonexai.com) |
 | 🤝 **Partnerships / prensa** | [jonatan@neonexai.com](mailto:jonatan@neonexai.com) |
 | ⚖️ **RGPD / legal** | [legal@neonexai.com](mailto:legal@neonexai.com) |
 
@@ -34,7 +34,7 @@ Somos un equipo pequeño. Hacemos lo posible por responder los issues en **2-5 d
 - 🐛 **Bugs / features** → open a GitHub issue using the templates.
 - ❓ **Usage questions** → issue with `question` label or [info@neonexai.com](mailto:info@neonexai.com).
 - 🔒 **Security** → **do not** open an issue, see [SECURITY.md](SECURITY.md).
-- 💼 **Business / quotes** → [info@neonexai.com](mailto:info@neonexai.com) · [WhatsApp](https://wa.me/34620033053).
+- 💼 **Business / quotes** → [info@neonexai.com](mailto:info@neonexai.com).
 
 We're a small team and aim to respond to issues within **2-5 business days**.
 
