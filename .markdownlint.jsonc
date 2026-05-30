@@ -1,0 +1,25 @@
+// Configuración de markdownlint para la organización NeoNexAI.
+// markdownlint configuration for the NeoNexAI organization.
+// Reglas: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+{
+  "default": true,
+
+  // MD013: no limitamos la longitud de línea (usamos tablas y URLs largas).
+  "MD013": false,
+
+  // MD033: permitimos HTML inline (banners <div align>, <img>, badges).
+  "MD033": false,
+
+  // MD041: la primera línea no tiene por qué ser un H1 (usamos <div> de cabecera).
+  "MD041": false,
+
+  // MD024: permitimos encabezados con el mismo texto si están en secciones
+  // distintas (p. ej. "Confirmaciones" en varias plantillas).
+  "MD024": { "siblings_only": true },
+
+  // MD036: permitimos texto en cursiva como pie (p. ej. "_© 2026 NeoNexAI_").
+  "MD036": false,
+
+  // MD060: no imponemos estilo de tabla (usamos separadores compactos |---|).
+  "MD060": false
+}

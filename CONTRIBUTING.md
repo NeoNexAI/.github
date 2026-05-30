@@ -19,17 +19,21 @@ Esta guía aplica por defecto a todos los repositorios de la organización [`@ne
 
 1. Haz **fork** del repositorio y clónalo localmente.
 2. Crea una rama descriptiva desde `main`:
+
    ```bash
    git checkout -b feat/mi-mejora      # o fix/, docs/, chore/, refactor/
    ```
+
 3. Realiza tus cambios siguiendo el estilo del proyecto.
 4. Asegúrate de que **pasa el linter y los tests** antes de hacer commit.
 5. Haz commits claros siguiendo [Conventional Commits](https://www.conventionalcommits.org/):
-   ```
+
+   ```text
    feat: añade exportación a CSV
    fix: corrige cálculo del stop ATR
    docs: actualiza el README de instalación
    ```
+
 6. Abre un **Pull Request** contra `main` rellenando la plantilla.
 
 ### 3. Nuestros principios de código (Karpathy principles)
