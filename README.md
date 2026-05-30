@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://neonexai.com/images/neonex-logo-3d.png" width="160" alt="NeoNexAI logo" />
+<img src="https://raw.githubusercontent.com/neonexai/.github/main/profile/assets/neonex-logo.png" width="160" alt="NeoNexAI logo" />
 
 # `.github` — Defaults de la organización NeoNexAI
 

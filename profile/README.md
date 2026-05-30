@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://neonexai.com/images/neonex-logo-3d.png" width="180" alt="NeoNexAI logo" />
+<img src="https://raw.githubusercontent.com/neonexai/.github/main/profile/assets/neonex-logo.png" width="180" alt="NeoNexAI logo" />
 
 # NeoNexAI Agency
 
