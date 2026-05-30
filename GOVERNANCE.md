@@ -7,23 +7,24 @@ _How decisions are made and projects are maintained at **NeoNexAI**._
 
 ## 🇪🇸 Modelo de gobernanza
 
-NeoNexAI Agency opera bajo un modelo **BDFL-lite** (_Benevolent Dictator For Life_, versión ligera): el _founder_ y el equipo central mantienen la dirección de los proyectos, abiertos a la colaboración de la comunidad.
+NeoNexAI Agency opera actualmente bajo un modelo **BDFL** (_Benevolent Dictator For Life_): el _founder_ mantiene la dirección de todos los proyectos y tiene la decisión final, manteniéndose abierto a la colaboración de la comunidad.
+
+> NeoNexAI es, a día de hoy, un proyecto liderado por una sola persona. A medida que se incorpore más gente, este documento se actualizará con nuevos roles (maintainers, etc.).
 
 ### Roles
 
 | Rol | Responsabilidad |
 |---|---|
-| **Founder / Lead** | [Jonatan García Ripollés](https://github.com/JonatanGhub) — dirección, decisiones finales, releases. |
-| **Maintainers** | Revisan PRs, triaje de issues, mergean cambios. Designados por el Lead. |
+| **Founder / Lead** | [Jonatan García Ripollés](https://github.com/JonatanGhub) — dirección, revisión de PRs, triaje de issues, decisiones finales y releases. |
 | **Contributors** | Cualquier persona que envíe PRs, issues o mejoras de docs. ¡Bienvenidos! |
 
 ### Toma de decisiones
 
-1. **Cambios pequeños** (bugs, docs, mejoras menores): un maintainer revisa y mergea.
-2. **Cambios medianos** (features): discusión en un issue → consenso de maintainers.
-3. **Cambios estructurales** (arquitectura, dependencias clave, breaking changes): decisión del Lead, con input de la comunidad.
+Todas las decisiones (qué cambios entran, qué se prioriza y cuándo se publican releases) las toma el **Founder**, que escucha y valora las propuestas de la comunidad a través de issues y PRs.
 
-Buscamos **consenso**, no votación formal. Si no hay acuerdo, el Lead decide.
+1. **Cambios pequeños** (bugs, docs, mejoras menores): el Founder revisa y mergea.
+2. **Cambios medianos** (features): se discuten primero en un issue.
+3. **Cambios estructurales** (arquitectura, dependencias clave, breaking changes): decisión del Founder, con input de la comunidad.
 
 ### Releases y versionado
 
@@ -39,13 +40,14 @@ Ver la [filosofía en el perfil](profile/README.md): sin humo IA, sin lock-in, O
 
 ## 🇬🇧 Governance model (summary)
 
-NeoNexAI runs a lightweight **BDFL** model: the founder and core team steer projects while welcoming community contributions.
+NeoNexAI currently runs a **BDFL** (_Benevolent Dictator For Life_) model: the founder steers all projects and has final say, while welcoming community contributions.
 
-- **Founder/Lead** owns direction, final decisions, and releases.
-- **Maintainers** review PRs, triage issues, and merge changes.
+> NeoNexAI is, as of today, a solo-founder project. As the team grows, this document will be updated with new roles (maintainers, etc.).
+
+- **Founder/Lead** owns direction, PR reviews, issue triage, final decisions, and releases.
 - **Contributors** send PRs, issues, and docs — everyone is welcome.
 
-Small changes are merged by maintainers; features are discussed in issues for consensus; structural changes are decided by the Lead with community input. We use [SemVer](https://semver.org/) and [Conventional Commits](https://www.conventionalcommits.org/).
+Small changes are reviewed and merged by the Founder; features are discussed in issues first; structural changes are decided by the Founder with community input. We use [SemVer](https://semver.org/) and [Conventional Commits](https://www.conventionalcommits.org/).
 
 ---
 
